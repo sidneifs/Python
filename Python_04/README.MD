@@ -1,3 +1,9 @@
+---
+# Objetivos
+
+Este exemplo simples demonstra como trabalhar com variáveis e constantes no Python. Apesar de o Python não ter suporte nativo para constantes, boas práticas como o uso de letras maiúsculas e tuplas ajudam a indicar valores que não devem ser alterados.
+---
+
 # Variáveis e Constantes no Python
 
 Este repositório contém o arquivo `variaveis_e_constantes.py`, que demonstra o uso de variáveis e constantes no Python de forma prática e simples.
@@ -15,23 +21,15 @@ age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
 
----
-## Objetivos
-
-Este exemplo simples demonstra como trabalhar com variáveis e constantes no Python. Apesar de o Python não ter suporte nativo para constantes, boas práticas como o uso de letras maiúsculas e tuplas ajudam a indicar valores que não devem ser alterados.
-
----
-
-## Constantes
+Constantes
 
 No Python, não há suporte nativo para constantes, mas por convenção utilizamos nomes em letras maiúsculas para indicar valores que não devem ser alterados.
 
-### Exemplo:
+Exemplo:
 
-```bash
 PI = 3.14159265359
 print(PI)
-````
+
 
 ## Tuplas como Constantes
 
@@ -41,6 +39,8 @@ Tuplas são imutáveis, ou seja, seus valores não podem ser alterados após a c
 
 BRASILIAN_STATES = ('MG', 'SP', 'RJ', 'ES')
 print(BRASILIAN_STATES)
+
+---
 
 ## Código Completo
 
@@ -87,3 +87,4 @@ python variaveis_e_constantes.py
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
 
 Sidnei Silva(sidnefs)
+````
