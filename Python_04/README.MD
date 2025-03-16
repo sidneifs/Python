@@ -14,14 +14,14 @@ Este repositório contém o arquivo `variaveis_e_constantes.py`, que demonstra o
 
 As variáveis são usadas para armazenar valores que podem ser alterados durante a execução do programa. No Python, o tipo da variável é inferido automaticamente com base no valor atribuído
 
-### Exemplo
+Exemplo
 
 ````python
 age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
 
-Constantes
+## Constantes
 
 No Python, não há suporte nativo para constantes, mas por convenção utilizamos nomes em letras maiúsculas para indicar valores que não devem ser alterados.
 
@@ -35,13 +35,13 @@ print(PI)
 
 Tuplas são imutáveis, ou seja, seus valores não podem ser alterados após a criação. Elas são frequentemente usadas para representar constantes.
 
-### Exemplo
+Exemplo
 
 BRASILIAN_STATES = ('MG', 'SP', 'RJ', 'ES')
 print(BRASILIAN_STATES)
 
 
-# Código Completo
+## Código Completo
 
 Aqui está o código completo do arquivo variaveis_e_constantes.py:
 
@@ -67,9 +67,8 @@ print(PI)
 print(BRASILIAN_STATES)
 print(stateS)
 print(limite_saque_diario)
-
 ```
----
+
 
 ## Executando o Código
 
@@ -79,9 +78,9 @@ Para executar o script, use o comando no terminal:
 python variaveis_e_constantes.py
 ```
 
-## O script exibirá os valores das variáveis, constantes e tuplas no terminal.
+### O script exibirá os valores das variáveis, constantes e tuplas no terminal.
 
-# Agradecimentos
+## Agradecimentos
 
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
 
