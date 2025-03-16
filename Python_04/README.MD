@@ -41,8 +41,7 @@ BRASILIAN_STATES = ('MG', 'SP', 'RJ', 'ES')
 print(BRASILIAN_STATES)
 
 
----
-#Código Completo
+# Código Completo
 
 Aqui está o código completo do arquivo variaveis_e_constantes.py:
 
@@ -68,6 +67,7 @@ print(PI)
 print(BRASILIAN_STATES)
 print(stateS)
 print(limite_saque_diario)
+
 ```
 ---
 
@@ -79,14 +79,11 @@ Para executar o script, use o comando no terminal:
 python variaveis_e_constantes.py
 ```
 
----
 ## O script exibirá os valores das variáveis, constantes e tuplas no terminal.
----
 
-## Agradecimentos
+# Agradecimentos
 
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
 
 Sidnei Silva(sidnefs)
----
 ````
