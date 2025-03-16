@@ -16,9 +16,11 @@ As variáveis são usadas para armazenar valores que podem ser alterados durante
 
 Exemplo
 
+```python
 age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
+```
 
 # Constantes
 
@@ -26,8 +28,10 @@ No Python, não há suporte nativo para constantes, mas por convenção utilizam
 
 Exemplo:
 
+```python
 PI = 3.14159265359
 print(PI)
+```
 
 # Tuplas como Constantes
 
@@ -35,8 +39,10 @@ Tuplas são imutáveis, ou seja, seus valores não podem ser alterados após a c
 
 Exemplo
 
+```python
 BRASILIAN_STATES = ('MG', 'SP', 'RJ', 'ES')
 print(BRASILIAN_STATES)
+```
 
 # Código Completo
 
