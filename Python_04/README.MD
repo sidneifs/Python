@@ -7,6 +7,7 @@ Este repositório contém o arquivo `variaveis_e_constantes.py`, que demonstra o
 ## Variáveis
 
 As variáveis são usadas para armazenar valores que podem ser alterados durante a execução do programa. No Python, o tipo da variável é inferido automaticamente com base no valor atribuído.
+---
 
 ### Exemplo:
 
@@ -15,13 +16,14 @@ age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
 
+---
 ## Objetivos
 
 Este exemplo simples demonstra como trabalhar com variáveis e constantes no Python. Apesar de o Python não ter suporte nativo para constantes, boas práticas como o uso de letras maiúsculas e tuplas ajudam a indicar valores que não devem ser alterados.
 
 ---
 
-##Constantes
+## CONSTANTES
 
 No Python, não há suporte nativo para constantes, mas por convenção utilizamos nomes em letras maiúsculas para indicar valores que não devem ser alterados.
 
