@@ -40,9 +40,9 @@ Tuplas são imutáveis, ou seja, seus valores não podem ser alterados após a c
 BRASILIAN_STATES = ('MG', 'SP', 'RJ', 'ES')
 print(BRASILIAN_STATES)
 
----
 
-## Código Completo
+---
+# Código Completo
 
 Aqui está o código completo do arquivo variaveis_e_constantes.py:
 
@@ -69,6 +69,7 @@ print(BRASILIAN_STATES)
 print(stateS)
 print(limite_saque_diario)
 ```
+---
 
 ## Executando o Código
 
@@ -79,12 +80,13 @@ python variaveis_e_constantes.py
 ```
 
 ---
-
 ## O script exibirá os valores das variáveis, constantes e tuplas no terminal.
+---
 
 ## Agradecimentos
 
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
 
 Sidnei Silva(sidnefs)
+---
 ````
