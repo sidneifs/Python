@@ -42,7 +42,7 @@ print(BRASILIAN_STATES)
 
 
 ---
-# Código Completo
+#Código Completo
 
 Aqui está o código completo do arquivo variaveis_e_constantes.py:
 
