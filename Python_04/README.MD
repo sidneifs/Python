@@ -16,7 +16,6 @@ As variáveis são usadas para armazenar valores que podem ser alterados durante
 
 Exemplo
 
-````python
 age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
@@ -43,7 +42,6 @@ print(BRASILIAN_STATES)
 
 Aqui está o código completo do arquivo variaveis_e_constantes.py:
 
-````python
 age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
@@ -65,7 +63,8 @@ print(PI)
 print(BRASILIAN_STATES)
 print(stateS)
 print(limite_saque_diario)
-```
+
+````
 
 
 ## Executando o Código
@@ -74,7 +73,7 @@ Para executar o script, use o comando no terminal:
 
 ```bash
 python variaveis_e_constantes.py
-```
+````
 
 ### O script exibirá os valores das variáveis, constantes e tuplas no terminal.
 
@@ -83,4 +82,3 @@ python variaveis_e_constantes.py
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
 
 Sidnei Silva(sidnefs)
-````
