@@ -9,13 +9,13 @@ Este script demonstra o uso de um modo interativo simples em Python, onde o usu�
 3. Execute o script no terminal com o comando:
 
 ```bash
-  python modointerativo.py
+python modointerativo.py
 ```
 
 4. Siga as instruções exibidas no terminal:
 
-   - Insira seu nome quando solicitado.
-   - Insira sua idade quando solicitado.
+- Insira seu nome quando solicitado.
+- Insira sua idade quando solicitado.
 
 ## Exemplo de execução
 
