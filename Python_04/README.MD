@@ -30,7 +30,6 @@ Exemplo:
 PI = 3.14159265359
 print(PI)
 
-
 ## Tuplas como Constantes
 
 Tuplas são imutáveis, ou seja, seus valores não podem ser alterados após a criação. Elas são frequentemente usadas para representar constantes.
@@ -40,12 +39,11 @@ Exemplo
 BRASILIAN_STATES = ('MG', 'SP', 'RJ', 'ES')
 print(BRASILIAN_STATES)
 
-
 ## Código Completo
 
 Aqui está o código completo do arquivo variaveis_e_constantes.py:
 
-```
+````python
 age = 37
 name = 'Sidnei'
 print(f'Meu nome é {name} e eu tenho {age} ano(s) de idade.')
