@@ -63,8 +63,7 @@ print(100 / 2 ** 3 + 3) # 6.25 + 3 = 9.25
 
 Aqui está o código completo do arquivo
 
-````bash
-convertendo_tipos_de_variaveis.py```:
+`bash convertendo_tipos_de_variaveis.py`:
 
 ```python
 print(int(5.568896))  # Converte um float para inteiro
@@ -81,7 +80,7 @@ print(type(valor_str))  # <class 'str'>
 
 print(100 / 2)  # 50.0 (divisão retorna float)
 print(100 // 2) # 50 (divisão inteira retorna int)
-````
+```
 
 ---
 
