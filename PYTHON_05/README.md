@@ -10,14 +10,16 @@ No Python, é possível converter valores entre diferentes tipos de dados, como 
 
 ### Exemplos:
 
-````python
+```python
 print(int(5.568896))  # Converte um float para inteiro
 print(float(5))       # Converte um inteiro para float
 print(int("25"))      # Converte uma string para inteiro
 print(float("25.16")) # Converte uma string para float
 print(str(10))        # Converte um inteiro para string
+```
 
 Verificando o Tipo:
+
 ```python
 valor = 10
 valor_str = str(valor)
@@ -61,7 +63,7 @@ print(100 / 2 ** 3 + 3) # 6.25 + 3 = 9.25
 
 Aqui está o código completo do arquivo
 
-```bash
+````bash
 convertendo_tipos_de_variaveis.py```:
 
 ```python
@@ -79,10 +81,12 @@ print(type(valor_str))  # <class 'str'>
 
 print(100 / 2)  # 50.0 (divisão retorna float)
 print(100 // 2) # 50 (divisão inteira retorna int)
-```
+````
+
 ---
 
 # Operadores aritméticos
+
 ```python
 print(10 + 10)  # Soma
 print(10 - 10)  # Subtração
@@ -110,7 +114,7 @@ print(100 / 2 ** 3 * 3)  # 6.25 * 3 = 18.75
 print(100 // 2 ** 3 - 3) # 6 - 3 = 3
 print(100 / 2 ** 3 - 3)  # 6.25 - 3 = 3.25
 print(100 // 2 ** 3 % 3) # 6 % 3 = 0
-````
+```
 
 Para esse contexto considerar apenas os exemplos de conversões de tipos de variáveis nas linahs iniciais.
 _*Demais Operadores aritiméticos são referências e objetos de práticas.*_
@@ -122,8 +126,8 @@ _*Demais Operadores aritiméticos são referências e objetos de práticas.*_
 Para executar o script, use o comando no terminal:
 python [convertendo_tipos_de_variaveis.py](http://_vscodecontentref_/0)
 
-## O script exibirá os resultados das conversões e operações no terminal.
+O script exibirá os resultados das conversões e operações no terminal.
 
 # Agradecimentos
 
-Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ````
+Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
