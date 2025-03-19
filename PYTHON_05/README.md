@@ -8,7 +8,7 @@ Este repositório contém o arquivo `convertendo_tipos_de_variaveis.py`, que dem
 
 No Python, é possível converter valores entre diferentes tipos de dados, como `int`, `float`, `str`, entre outros.
 
-### Exemplos:
+### Exemplos
 
 ```python
 print(int(5.568896))  # Converte um float para inteiro
@@ -46,7 +46,7 @@ print(100 ** 3) # Potência
 print(100 ** 0.5) # Raiz quadrada
 ```
 
-# Precedência de Operadores:
+# Precedência de Operadores
 
 O Python segue a ordem de precedência matemática (parênteses, exponenciação, multiplicação/divisão, soma/subtração).
 
@@ -121,14 +121,16 @@ Para esse contexto considerar apenas os exemplos de conversões de tipos de vari
 _*Demais Operadores aritiméticos são referências e objetos de práticas.*_
 
 ---
-
 # Executando o Código
 
 Para executar o script, use o comando no terminal:
-python [convertendo_tipos_de_variaveis.py](http://_vscodecontentref_/0)
+```bash
+python [convertendo_tipos_de_variaveis.py]([http://_vscodecontentref_/0](https://github.com/sidneifs/Python/blob/main/PYTHON_05/convertendo_tipos_de_variaveis.py))
+```
 
 O script exibirá os resultados das conversões e operações no terminal.
 
 # Agradecimentos
 
-Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto. ```
+Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto.
+```
