@@ -23,7 +23,7 @@ print(nome, idade)
 
 ---
 
-# Função `print()`
+## Função `print()`
 
 A função print() é usada para exibir informações no terminal. Ela possui parâmetros opcionais que permitem personalizar a saída.
 
@@ -59,7 +59,7 @@ print(nome, idade, sep="#") # Usa "#" como separador
 
 ---
 
-## Código Completo:
+## Código Completo
 
 Aqui está o código completo do arquivo `funcoes_entradas_saidas_input_builtin.py`:
 
@@ -88,6 +88,7 @@ Ver link do arquivo [aqui](https://github.com/sidneifs/Python/blob/main/Python_0
 O programa solicitará que o usuário insira o nome e a idade e exibirá os resultados formatados no terminal.
 
 ---
+
 ## Agradecimentos
 
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto.
