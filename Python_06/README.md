@@ -75,12 +75,12 @@ print(nome, idade, sep="#")
 
 ---
 
-# Executando o Código
+## Executando o Código
 
 Para executar o script, use o comando no terminal:
 
 ```bash
-python `funcoes_entradas_saidas_input_builtin.py`
+python 'funcoes_entradas_saidas_input_builtin.py'
 ```
 
 Ver link do arquivo [aqui](https://github.com/sidneifs/Python/blob/main/Python_06/funcoes_entradas_saidas_input_builtin.py).
