@@ -17,12 +17,12 @@ idade = input("Informe a sua idade: ")
 print(nome, idade)
 ```
 
--- O programa solicita que o usuário insira o nome e a idade.
--- Os valores digitados são armazenados nas variáveis `nome` e `idade`.
+» O programa solicita que o usuário insira o nome e a idade.
+» Os valores digitados são armazenados nas variáveis `nome` e `idade`.
 
 ---
 
-# Função print()
+# Função `print()`
 
 A função print() é usada para exibir informações no terminal. Ela possui parâmetros opcionais que permitem personalizar a saída.
 
@@ -58,7 +58,7 @@ print(nome, idade, sep="#") # Usa "#" como separador
 
 ---
 
-Código Completo:
+# Código Completo:
 
 Aqui está o código completo do arquivo `funcoes_entradas_saidas_input_builtin.py`:
 
@@ -78,11 +78,15 @@ Executando o Código
 
 Para executar o script, use o comando no terminal:
 
-```python
-python [funcoes_entradas_saidas_input_builtin.py](http://_vscodecontentref_/0)
+```bash
+python `funcoes_entradas_saidas_input_builtin.py`
 ```
 
-## O programa solicitará que o usuário insira o nome e a idade e exibirá os resultados formatados no terminal.
+Ver link do arquivo [aqui](https://github.com/sidneifs/Python/blob/main/Python_06/funcoes_entradas_saidas_input_builtin.py).
 
-Agradecimentos
+O programa solicitará que o usuário insira o nome e a idade e exibirá os resultados formatados no terminal.
+
+---
+# Agradecimentos
+
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto.
