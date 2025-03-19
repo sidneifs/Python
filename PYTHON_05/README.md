@@ -125,7 +125,7 @@ _*Demais Operadores aritiméticos são referências e objetos de práticas.*_
 
 Para executar o script, use o comando no terminal:
 ```bash
-python [convertendo_tipos_de_variaveis.py]([http://_vscodecontentref_/0](https://github.com/sidneifs/Python/blob/main/PYTHON_05/convertendo_tipos_de_variaveis.py))
+python ['convertendo_tipos_de_variaveis.py']([http://_vscodecontentref_/0])(https://github.com/sidneifs/Python/blob/main/PYTHON_05/convertendo_tipos_de_variaveis.py)
 ```
 
 O script exibirá os resultados das conversões e operações no terminal.
@@ -133,4 +133,3 @@ O script exibirá os resultados das conversões e operações no terminal.
 # Agradecimentos
 
 Agradeço à DIO.me e à Suzano pela oportunidade de participar do Bootcamp Python Developer, que proporcionou o aprendizado e desenvolvimento deste projeto.
-```
