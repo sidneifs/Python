@@ -1,0 +1,87 @@
+# Operadores Lógicos
+# AND, OR e NOT
+# AND = para ser True tudo tem que ser True
+# OR = para ser True apenas um tem que ser True
+# NOT = inverte o valor lógico
+# Tabela Verdade
+# AND
+# True and True = True
+# True and False = False
+# False and True = False
+# False and False = False
+# OR
+# True or True = True
+# True or False = True
+# False or True = True
+# False or False = False
+# NOT
+# not True = False
+# not False = True
+
+# Exemplos de uso
+
+print(True and True) # True
+print(True and True and True) # True
+print(True and True and False) # False
+print(True and False and True) # False
+print(True and False and False) # False
+print(False and False and False) # False
+print(True or True or True) # True
+print(True or True or False) # True 
+print(True or False or False) # True
+print(False or True or True) # True
+print(False or False or False) # False
+print(not True) # False
+print(not False) # True
+print(not True and True) # False
+print(not True and False) # False
+print(not False and True) # True
+print(not False and False) # False
+print(not True or True) # False
+print(not True or False) # False
+print(not False or True) # True
+print(not False or False) # True
+print(not True and not True) # False
+print(not True and not False) # False
+print(not False and not True) # False
+print(not False and not False) # True
+print(not True or not True) # False
+print(not True or not False) # True
+print(not False or not True) # False
+print(not False or not False) # True
+print(not True and not True and not True) # False
+print(not True and not True and not False) # False
+print(not True and not False and not True) # False
+print(not True and not False and not False) # False
+print(not False and not True and not True) # False
+print(not False and not True and not False) # False
+print(not False and not False and not True) # False
+print(not False and not False and not False) # True
+print(not True or not True or not True) # False
+
+# Exemplos de uso
+
+saldo = 10000# saldo é maior que 1000
+saque = 200 # saque é menor que 2000
+limite = 2000 # limite é menor que 2000
+saldo = 36000 # saldo é maior que 1000
+saque = 2500 # saque é menor que 2000
+limite = 20000  # limite é menor que 2000
+conta_especial = True # conta especial é True
+conta_normal = False # conta normal é False
+
+exp = saldo >= saque and saque <= limite or conta_especial and saldo >= saque
+print(exp) # True
+print(saldo >= saque) # True
+
+exp_2 = (saldo >= saque and saque <= limite) or (conta_especial and saldo >= saque)
+print(exp_2) # True
+print(saldo >= saque and saque <= limite) # True    
+
+conta_normal_com_saldo_suficiente = saldo >= saque and saque <= limite  # conta normal com saldo suficiente
+conta_especial_com_saldo_suficiente = conta_especial and saldo >= saque # conta especial com saldo suficiente
+print(conta_normal_com_saldo_suficiente) # True
+
+exp_3 = conta_normal_com_saldo_suficiente or conta_especial_com_saldo_suficiente
+print(exp_3)    # True
+print(conta_normal_com_saldo_suficiente) # True
