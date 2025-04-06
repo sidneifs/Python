@@ -8,7 +8,7 @@
 # O loop for é útil quando você sabe quantas iterações deseja fazer ou quando está lidando com uma sequência de elementos.
 # Exemplo básico de uso do loop for
 
-f# Estruturas de repetição FOR
+# Estruturas de repetição FOR
 # O loop for é utilizado para iterar sobre uma sequência (como lista, tupla, dicionário, conjunto ou string) ou um iterável.
 
 # A sintaxe básica do loop for é:
