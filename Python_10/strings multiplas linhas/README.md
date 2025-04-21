@@ -83,7 +83,7 @@ Obrigado por comprar na Titanium SiD!
 
 O arquivo também gera um QR Code para um **gift exclusivo**. O link do QR Code pode ser acessado diretamente no navegador:
 
-[https://www.titaniumsid.com/gift/12345](https://www.titaniumsid.com/gift/12345)
+[https://www.titaniumsid.com/gift/12345](https://github.com/sidneifs/Python/blob/main/Python_10/strings%20multiplas%20linhas/gift_qr_code.png?raw=true)
 
 ### Código para Gerar o QR Code
 
