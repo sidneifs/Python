@@ -26,7 +26,7 @@ VOGAIS = "AEIOU"
 
 for letra in texto:
     if letra.upper() in VOGAIS:
-        print(letra, end="")
+       print(letra, end="")
 else:
     print()  # Adiciona uma quebra de linha ao final
 
