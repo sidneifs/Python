@@ -10,7 +10,7 @@ site = "www.titaniumsid.com"
 gift_qr_code = "https://www.titaniumsid.com/gift/12345"
 
 # Mensagem de confirmação do pedido
-mensagem_pedido = f"""
+mensagem_pedido = f""" 
 ==========================================
           CONFIRMAÇÃO DE PEDIDO
 ==========================================
