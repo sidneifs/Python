@@ -79,7 +79,7 @@ print(salario)  # Saída: 2000 (variável global permanece inalterada)
 2. Navegue até o diretório onde o arquivo `05_escopo_local_e_global.py` está localizado. No terminal, use o comando:
 
 ```bash
-    cd "c:\Users\sucos\OneDrive\Documentos\PROJETOS Visual Studio CODE 2025\AULA 5 VS\Python\Python_11\Estrutura de Dados\funções python_ parte 02"
+ cd "c:\Users\sucos\OneDrive\Documentos\PROJETOS Visual Studio CODE 2025\AULA 5 VS\Python\Python_11\Estrutura de Dados\funções python_ parte 02"
 ```
 
 3. Execute o arquivo diretamente no terminal:
