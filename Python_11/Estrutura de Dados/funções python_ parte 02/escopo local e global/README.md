@@ -78,15 +78,15 @@ print(salario)  # Saída: 2000 (variável global permanece inalterada)
 1. Certifique-se de ter o Python instalado em sua máquina.
 2. Navegue até o diretório onde o arquivo `05_escopo_local_e_global.py` está localizado. No terminal, use o comando:
 
-   ```bash
-   cd "c:\Users\sucos\OneDrive\Documentos\PROJETOS Visual Studio CODE 2025\AULA 5 VS\Python\Python_11\Estrutura de Dados\funções python_ parte 02"
-   ```
+```bash
+    cd "c:\Users\sucos\OneDrive\Documentos\PROJETOS Visual Studio CODE 2025\AULA 5 VS\Python\Python_11\Estrutura de Dados\funções python_ parte 02"
+```
 
 3. Execute o arquivo diretamente no terminal:
 
-   ```bash
-   python 05_escopo_local_e_global.py
-   ```
+```bash
+python 05_escopo_local_e_global.py
+```
 
 4. O terminal exibirá os resultados das funções que utilizam variáveis de escopo local e global.
 
