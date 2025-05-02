@@ -12,6 +12,7 @@ def menu():
     [nc] Nova conta
     [lc] Listar contas
     [nu] Novo usuário
+    [test] Testar funcionalidades
     [q]  Sair
     =====================================
     => """
