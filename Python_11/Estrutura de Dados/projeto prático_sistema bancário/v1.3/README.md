@@ -82,16 +82,13 @@ A versão 1.3 trouxe melhorias significativas para o sistema bancário. Abaixo e
   Deseja atualizar os dados inseridos? (s/n): n
   === Conta criada com sucesso! Bem-vindo ao SiD BANK! ===
 
-```
-
 
 # Geração de QR Code no HTML
 
 - O QR Code gerado para o extrato é exibido diretamente na página HTML.
 
-## Exemplo de código HTML gerado:
+## Exemplo de código HTML gerado
 
-```bash
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
@@ -109,7 +106,6 @@ A versão 1.3 trouxe melhorias significativas para o sistema bancário. Abaixo e
     <img src="extratos/extrato_20230518123045.png" alt="QR Code do Extrato">
 </body>
 </html>
-```
 
 # Menu do Sistema Bancário
 
