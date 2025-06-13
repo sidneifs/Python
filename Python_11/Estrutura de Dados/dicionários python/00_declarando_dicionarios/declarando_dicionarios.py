@@ -76,4 +76,4 @@ print(pessoa)  # {}
 pessoa1 = {"nome": "Sidnei", "idade": 38}
 pessoa2 = {"nome": "Sidnei", "idade": 38}
 print(pessoa1 == pessoa2)  # True (mesmo conteúdo)
-print(pessoa1 is pessoa2)  # False (objetos diferentes)   
+print(pessoa1 is pessoa2)  # False (objetos diferentes)
