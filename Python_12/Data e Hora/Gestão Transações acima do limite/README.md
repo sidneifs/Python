@@ -46,7 +46,7 @@ Você foi solicitado a criar um programa que analise uma lista de transações b
 python transacoes_acima_do_limite.py
 ```
 
-3. Digite a linha de entrada no formato:
+3.Digite a linha de entrada no formato:
 
 ```text
 [100, -50, 300, -150], 100
