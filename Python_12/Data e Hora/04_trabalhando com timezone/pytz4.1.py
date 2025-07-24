@@ -4,6 +4,8 @@
 from datetime import datetime # import datetime
 
 import pytz # import pytz para trabalhar com timezones
+# pip install pytz # instalar pytz se não estiver instalado
+# pytz é uma biblioteca que permite trabalhar com timezones de forma fácil e eficiente
 
 data = datetime.now(pytz.timezone("Europe/Oslo")) # obtendo a data e hora atual em um timezone específico
 data2 = datetime.now(pytz.timezone("America/Sao_Paulo")) # obtendo a data e hora atual em outro timezone específico
