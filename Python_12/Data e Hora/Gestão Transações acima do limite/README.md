@@ -6,9 +6,12 @@ Você foi solicitado a criar um programa que analise uma lista de transações b
 
 ### Entrada
 
-- Uma linha contendo a lista de valores representando as transações bancárias e o limite, separados por vírgula, por exemplo: `[100, -50, 300, -150], 100`
-- Valores positivos representam depósitos e negativos representam saques.
-- O valor limite pode ser inteiro ou decimal.
+- Uma linha contendo a lista de valores representando as transações bancárias e o limite, por exemplo: `[100, -50, 300, -150], 100`
+  - O script aceita tanto o formato `[100, -50, 300, -150], 100` quanto `[100, -50, 300, -150] 100` (separados por vírgula ou espaço).
+  - Valores positivos representam depósitos e negativos representam saques.
+  - O valor limite pode ser inteiro ou decimal.
+  - Para submissão na DIO, utilize o formato exato do exemplo, em uma única linha.
+  - Para testes locais, o código permite digitar manualmente a linha, usando `input()` (compatível com Windows/PowerShell).
 
 ### Saída
 
@@ -34,6 +37,9 @@ Você foi solicitado a criar um programa que analise uma lista de transações b
 - Mantém inteiros como inteiros e decimais como decimais na saída, igual aos exemplos da DIO.
 - A saída é impressa exatamente no formato solicitado: `Transações: [X, Y, Z]`.
 - O código trata entradas vazias e possíveis erros de conversão, garantindo robustez.
+- O script foi aprimorado para aceitar diferentes formatos de entrada, tornando os testes locais mais fáceis e compatíveis com Windows/PowerShell.
+- O uso de `input()` garante que o código funcione interativamente em qualquer terminal.
+- O código está pronto para submissão na DIO e para testes locais, sem necessidade de ajustes.
 
 ---
 
@@ -46,10 +52,16 @@ Você foi solicitado a criar um programa que analise uma lista de transações b
 python transacoes_acima_do_limite.py
 ```
 
-3.Digite a linha de entrada no formato:
+3. Digite a linha de entrada no formato:
 
 ```text
 [100, -50, 300, -150], 100
+```
+
+ou
+
+```text
+[100, -50, 300, -150] 100
 ```
 
 ---
@@ -58,6 +70,8 @@ python transacoes_acima_do_limite.py
 
 - Para submissão na DIO, utilize a versão que lê diretamente do stdin e espera a entrada em uma única linha.
 - Para testes locais, o código permite digitar a linha manualmente caso não haja entrada padrão.
+- O script está compatível com Windows/PowerShell e terminais interativos.
+- Recomenda-se sempre testar localmente antes de submeter na DIO.
 
 ---
 
